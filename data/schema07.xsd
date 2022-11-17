@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="teams">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="team" type="teamType" maxOccurs="unbounded" minOccurs="1"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="teamType">
+        <xs:sequence>
+            <xs:element name="teamName" type="xs:string" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="teamShortName" type="xs:string" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="teamVenue" type="xs:string" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="teamConference" type="xs:string" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="teamStats" type="teamStatsType" maxOccurs="1" minOccurs="1"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+    </xs:complexType>
+    
+    <xs:complexType name="teamStatsType">
+        <xs:sequence>
+            <xs:element name="wins" type="xs:integer" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="losses" type="xs:integer" maxOccurs="1" minOccurs="1"/>
+            <xs:element name="pts" type="xs:integer" maxOccurs="1" minOccurs="1"/>
+            
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
