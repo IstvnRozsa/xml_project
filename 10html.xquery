@@ -36,14 +36,15 @@ return document {
                     <li class="list-group-item">Csapat létszám: {count($team?roster?roster?*)}</li>
                     <li class="list-group-item"><a href="{$team?officialSiteUrl}" target="_blank">Hivatalos oldal</a></li>
                   </ul>
-                   <div>
+                   <div class="container">
                             <table class="table">
                                 <thead>
                                     <tr>
                                         <th scope="col">#</th>
                                         <th scope="col">Mezszám</th>
                                         <th scope="col">Játékos</th>
-                                        <th scope="col">Pozició</th>
+                                        <th scope="col">Pozició 1</th>
+                                        <th scope="col">Pozició 2</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -56,6 +57,7 @@ return document {
                                                 <td scope="row">{$i}</td>
                                                 <td>{$roster?jerseyNumber}</td>
                                                 <td>{$roster?person?fullName}</td>
+                                                <td>{$roster?position?type}</td>
                                                 <td>{$roster?position?name}</td>
                                             </tr>
                                  }
@@ -64,7 +66,9 @@ return document {
                         </div>
              </section>
             }
-            
+            <section class="container">
+            <p>Developed by Rozsa Istvan 2022</p>
+            </section>
         </body>
     </html>
 }
