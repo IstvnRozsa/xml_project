@@ -1,4 +1,4 @@
-(:40 nel nagyobb jatekoskerettel rendelkezo csapatok listaja:)
+(:40 fonel nagyobb jatekoskerettel rendelkezo csapatok listaja:)
 xquery version "3.1";
 
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
