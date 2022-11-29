@@ -18,7 +18,7 @@ return validate {
                     let $timezone := $team?venue?timeZone?id
                     group by $timezone
                     return
-                    <tzcount name="{$timezone}">{count($team)}</tzcount>
+                    <tzCount name="{$timezone}">{count($team)}</tzCount>
             }
         </document>
     }

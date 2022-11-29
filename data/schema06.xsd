@@ -3,13 +3,13 @@
     <xs:element name="document">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="tzcount" type="tzcountType" maxOccurs="unbounded" minOccurs="1">
+                <xs:element name="tzCount" type="tzCountType" maxOccurs="unbounded" minOccurs="1">
                 </xs:element>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
     
-    <xs:complexType name="tzcountType">
+    <xs:complexType name="tzCountType">
         <xs:simpleContent>
             <xs:extension base="xs:integer">
                 <xs:attribute name="name" type="xs:string" use="required"></xs:attribute>
