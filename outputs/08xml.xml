@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="schema08.xsd">
+    <team id="9">
+        <teamName>Ottawa Senators</teamName>
+        <teamStats>
+            <wins>29</wins>
+            <losses>47</losses>
+            <pts>64</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="54">Bobby Ryan</player>
+            <player jerseyNumber="10">Tom Pyatt</player>
+            <player jerseyNumber="42">Justin Falk</player>
+            <player jerseyNumber="34">Paul Carey</player>
+            <player jerseyNumber="15">Zack Smith</player>
+            <player jerseyNumber="89">Mikkel Boedker</player>
+            <player jerseyNumber="17">Cody Goloubef</player>
+            <player jerseyNumber="90">Mark Borowiecki</player>
+            <player jerseyNumber="95">Matt Duchene</player>
+            <player jerseyNumber="56">Magnus Paajarvi</player>
+            <player jerseyNumber="29">Stefan Elliott</player>
+            <player jerseyNumber="6">Chris Wideman</player>
+            <player jerseyNumber="90">Darren Archibald</player>
+            <player jerseyNumber="24">Oscar Lindberg</player>
+            <player jerseyNumber="61">Mark Stone</player>
+            <player jerseyNumber="46">Erik Burgdoerfer</player>
+            <player jerseyNumber="29">Brian Gibbons</player>
+            <player jerseyNumber="19">Ryan Dzingel</player>
+            <player jerseyNumber="71">Max McCormick</player>
+            <player jerseyNumber="2">Dylan DeMelo</player>
+            <player jerseyNumber="44">Jean-Gabriel Pageau</player>
+            <player jerseyNumber="5">Cody Ceci</player>
+            <player jerseyNumber="71">Chris Tierney</player>
+            <player jerseyNumber="10">Anthony Duclair</player>
+            <player jerseyNumber="20">Nicholas Paul</player>
+            <player jerseyNumber="17">Ben Harpur</player>
+            <player jerseyNumber="88">Andreas Englund</player>
+            <player jerseyNumber="53">Jack Rodewald</player>
+            <player jerseyNumber="6">Colin White</player>
+            <player jerseyNumber="72">Thomas Chabot</player>
+            <player jerseyNumber="78">Filip Chlapik</player>
+            <player jerseyNumber="86">Christian Wolanin</player>
+            <player jerseyNumber="83">Christian Jaros</player>
+            <player jerseyNumber="22">Rudolfs Balcers</player>
+            <player jerseyNumber="42">Maxime Lajoie</player>
+            <player jerseyNumber="22">Logan Brown</player>
+            <player jerseyNumber="85">Vitaly Abramov</player>
+            <player jerseyNumber="10">Alex Formenton</player>
+            <player jerseyNumber="26">Erik Brannstrom</player>
+            <player jerseyNumber="19">Drake Batherson</player>
+            <player jerseyNumber="74">Max Veronneau</player>
+            <player jerseyNumber="7">Brady Tkachuk</player>
+            <player jerseyNumber="41">Craig Anderson</player>
+            <player jerseyNumber="56">Mike McKenna</player>
+            <player jerseyNumber="">Anders Nilsson</player>
+            <player jerseyNumber="1">Mike Condon</player>
+            <player jerseyNumber="1">Marcus Hogberg</player>
+            <player jerseyNumber="35">Joey Daccord</player>
+        </players>
+    </team>
+    <team id="1">
+        <teamName>New Jersey Devils</teamName>
+        <teamStats>
+            <wins>31</wins>
+            <losses>41</losses>
+            <pts>72</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="11">Brian Boyle</player>
+            <player jerseyNumber="18">Drew Stafford</player>
+            <player jerseyNumber="14">Travis Zajac</player>
+            <player jerseyNumber="4">Andy Greene</player>
+            <player jerseyNumber="2">Eric Gryba</player>
+            <player jerseyNumber="21">Ben Lovejoy</player>
+            <player jerseyNumber="34">Eric Tangradi</player>
+            <player jerseyNumber="90">Marcus Johansson</player>
+            <player jerseyNumber="21">Kyle Palmieri</player>
+            <player jerseyNumber="45">Sami Vatanen</player>
+            <player jerseyNumber="71">Taylor Hall</player>
+            <player jerseyNumber="18">Kenny Agostino</player>
+            <player jerseyNumber="56">Blake Pietila</player>
+            <player jerseyNumber="20">Blake Coleman</player>
+            <player jerseyNumber="87">Ryan Murphy</player>
+            <player jerseyNumber="23">Stefan Noesen</player>
+            <player jerseyNumber="79">Kurtis Gabriel</player>
+            <player jerseyNumber="28">Damon Severson</player>
+            <player jerseyNumber="58">Connor Carrick</player>
+            <player jerseyNumber="33">Will Butcher</player>
+            <player jerseyNumber="44">Miles Wood</player>
+            <player jerseyNumber="36">Steven Santini</player>
+            <player jerseyNumber="25">Mirco Mueller</player>
+            <player jerseyNumber="">Jean-Sebastien Dea</player>
+            <player jerseyNumber="47">John Quenneville</player>
+            <player jerseyNumber="38">Josh Jacobs</player>
+            <player jerseyNumber="18">Pavel Zacha</player>
+            <player jerseyNumber="45">Colton White</player>
+            <player jerseyNumber="62">Brett Seney</player>
+            <player jerseyNumber="25">Nick Lappin</player>
+            <player jerseyNumber="21">Kevin Rooney</player>
+            <player jerseyNumber="28">Joey Anderson</player>
+            <player jerseyNumber="51">Brandon Gignac</player>
+            <player jerseyNumber="63">Jesper Bratt</player>
+            <player jerseyNumber="14">Nathan Bastian</player>
+            <player jerseyNumber="20">Michael McLeod</player>
+            <player jerseyNumber="13">Nico Hischier</player>
+            <player jerseyNumber="74">Egor Yakovlev</player>
+            <player jerseyNumber="35">Cory Schneider</player>
+            <player jerseyNumber="30">Keith Kinkaid</player>
+            <player jerseyNumber="29">Mackenzie Blackwood</player>
+        </players>
+    </team>
+    <team id="3">
+        <teamName>New York Rangers</teamName>
+        <teamStats>
+            <wins>32</wins>
+            <losses>36</losses>
+            <pts>78</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="55">Cody McLeod</player>
+            <player jerseyNumber="18">Marc Staal</player>
+            <player jerseyNumber="54">Adam McQuaid</player>
+            <player jerseyNumber="39">Matt Beleskey</player>
+            <player jerseyNumber="22">Kevin Shattenkirk</player>
+            <player jerseyNumber="2">Brendan Smith</player>
+            <player jerseyNumber="20">Chris Kreider</player>
+            <player jerseyNumber="36">Mats Zuccarello</player>
+            <player jerseyNumber="15">Ryan Spooner</player>
+            <player jerseyNumber="23">Connor Brickley</player>
+            <player jerseyNumber="13">Kevin Hayes</player>
+            <player jerseyNumber="71">Jesper Fast</player>
+            <player jerseyNumber="3">Fredrik Claesson</player>
+            <player jerseyNumber="28">Steven Fogarty</player>
+            <player jerseyNumber="16">Ryan Strome</player>
+            <player jerseyNumber="93">Mika Zibanejad</player>
+            <player jerseyNumber="90">Vladislav Namestnikov</player>
+            <player jerseyNumber="76">Brady Skjei</player>
+            <player jerseyNumber="26">Jimmy Vesey</player>
+            <player jerseyNumber="59">Boo Nieves</player>
+            <player jerseyNumber="58">John Gilmour</player>
+            <player jerseyNumber="89">Pavel Buchnevich</player>
+            <player jerseyNumber="77">Tony DeAngelo</player>
+            <player jerseyNumber="48">Brendan Lemieux</player>
+            <player jerseyNumber="55">Ryan Lindgren</player>
+            <player jerseyNumber="25">Libor Hajek</player>
+            <player jerseyNumber="21">Brett Howden</player>
+            <player jerseyNumber="42">Tim Gettinger</player>
+            <player jerseyNumber="95">Vinni Lettieri</player>
+            <player jerseyNumber="17">Lias Andersson</player>
+            <player jerseyNumber="72">Filip Chytil</player>
+            <player jerseyNumber="4">Neal Pionk</player>
+            <player jerseyNumber="30">Henrik Lundqvist</player>
+            <player jerseyNumber="40">Alexandar Georgiev</player>
+        </players>
+    </team>
+    <team id="17">
+        <teamName>Detroit Red Wings</teamName>
+        <teamStats>
+            <wins>32</wins>
+            <losses>40</losses>
+            <pts>74</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="55">Niklas Kronwall</player>
+            <player jerseyNumber="83">Trevor Daley</player>
+            <player jerseyNumber="81">Frans Nielsen</player>
+            <player jerseyNumber="52">Jonathan Ericsson</player>
+            <player jerseyNumber="26">Thomas Vanek</player>
+            <player jerseyNumber="27">Mike Green</player>
+            <player jerseyNumber="8">Justin Abdelkader</player>
+            <player jerseyNumber="43">Darren Helm</player>
+            <player jerseyNumber="14">Gustav Nyquist</player>
+            <player jerseyNumber="28">Luke Witkowski</player>
+            <player jerseyNumber="32">Brian Lashoff</player>
+            <player jerseyNumber="22">Wade Megan</player>
+            <player jerseyNumber="3">Nick Jensen</player>
+            <player jerseyNumber="25">Dylan McIlrath</player>
+            <player jerseyNumber="54">Matt Puempel</player>
+            <player jerseyNumber="11">Luke Glendening</player>
+            <player jerseyNumber="29">Martin Frk</player>
+            <player jerseyNumber="89">Andreas Athanasiou</player>
+            <player jerseyNumber="65">Danny DeKeyser</player>
+            <player jerseyNumber="61">Jacob de la Rose</player>
+            <player jerseyNumber="24">Madison Bowey</player>
+            <player jerseyNumber="59">Tyler Bertuzzi</player>
+            <player jerseyNumber="39">Anthony Mantha</player>
+            <player jerseyNumber="84">Jake Chelios</player>
+            <player jerseyNumber="71">Dylan Larkin</player>
+            <player jerseyNumber="">Dominic Turgeon</player>
+            <player jerseyNumber="70">Christoffer Ehn</player>
+            <player jerseyNumber="">Joe Hicketts</player>
+            <player jerseyNumber="39">Dennis Cholowski</player>
+            <player jerseyNumber="17">Filip Hronek</player>
+            <player jerseyNumber="27">Michael Rasmussen</player>
+            <player jerseyNumber="47">Libor Sulak</player>
+            <player jerseyNumber="11">Filip Zadina</player>
+            <player jerseyNumber="56">Ryan Kuffner</player>
+            <player jerseyNumber="25">Taro Hirose</player>
+            <player jerseyNumber="35">Jimmy Howard</player>
+            <player jerseyNumber="45">Jonathan Bernier</player>
+            <player jerseyNumber="36">Kaden Fulcher</player>
+        </players>
+    </team>
+    <team id="7">
+        <teamName>Buffalo Sabres</teamName>
+        <teamStats>
+            <wins>33</wins>
+            <losses>39</losses>
+            <pts>76</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="29">Jason Pominville</player>
+            <player jerseyNumber="48">Matt Hunwick</player>
+            <player jerseyNumber="17">Vladimir Sobotka</player>
+            <player jerseyNumber="21">Kyle Okposo</player>
+            <player jerseyNumber="10">Patrik Berglund</player>
+            <player jerseyNumber="24">Zach Bogosian</player>
+            <player jerseyNumber="6">Marco Scandella</player>
+            <player jerseyNumber="22">Johan Larsson</player>
+            <player jerseyNumber="53">Jeff Skinner</player>
+            <player jerseyNumber="26">Scott Wilson</player>
+            <player jerseyNumber="28">Nathan Beaulieu</player>
+            <player jerseyNumber="7">Matt Tennyson</player>
+            <player jerseyNumber="28">Zemgus Girgensons</player>
+            <player jerseyNumber="6">Jake McCabe</player>
+            <player jerseyNumber="55">Danny O'Regan</player>
+            <player jerseyNumber="">Remi Elie</player>
+            <player jerseyNumber="55">Rasmus Ristolainen</player>
+            <player jerseyNumber="73">Conor Sheary</player>
+            <player jerseyNumber="13">Sam Reinhart</player>
+            <player jerseyNumber="62">Brandon Montour</player>
+            <player jerseyNumber="71">Victor Olofsson</player>
+            <player jerseyNumber="9">Jack Eichel</player>
+            <player jerseyNumber="2">Brendan Guhle</player>
+            <player jerseyNumber="9">Evan Rodrigues</player>
+            <player jerseyNumber="3">Will Borgen</player>
+            <player jerseyNumber="8">Casey Nelson</player>
+            <player jerseyNumber="72">Tage Thompson</player>
+            <player jerseyNumber="19">Alex Nylander</player>
+            <player jerseyNumber="37">Casey Mittelstadt</player>
+            <player jerseyNumber="17">C.J. Smith</player>
+            <player jerseyNumber="26">Rasmus Dahlin</player>
+            <player jerseyNumber="20">Lawrence Pilut</player>
+            <player jerseyNumber="40">Carter Hutton</player>
+            <player jerseyNumber="35">Linus Ullmark</player>
+        </players>
+    </team>
+    <team id="13">
+        <teamName>Florida Panthers</teamName>
+        <teamStats>
+            <wins>36</wins>
+            <losses>32</losses>
+            <pts>86</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="17">Derek MacKenzie</player>
+            <player jerseyNumber="36">Troy Brouwer</player>
+            <player jerseyNumber="3">Keith Yandle</player>
+            <player jerseyNumber="88">Jamie McGinn</player>
+            <player jerseyNumber="61">Derick Brassard</player>
+            <player jerseyNumber="70">Colton Sceviour</player>
+            <player jerseyNumber="63">Evgenii Dadonov</player>
+            <player jerseyNumber="38">Micheal Haley</player>
+            <player jerseyNumber="68">Mike Hoffman</player>
+            <player jerseyNumber="6">Chris Wideman</player>
+            <player jerseyNumber="28">Alexander Petrovic</player>
+            <player jerseyNumber="17">Nick Bjugstad</player>
+            <player jerseyNumber="8">Riley Sheahan</player>
+            <player jerseyNumber="43">Mark Pysyk</player>
+            <player jerseyNumber="16">Vincent Trocheck</player>
+            <player jerseyNumber="10">Jonathan Huberdeau</player>
+            <player jerseyNumber="8">Mike Matheson</player>
+            <player jerseyNumber="52">MacKenzie Weegar</player>
+            <player jerseyNumber="3">Josh Brown</player>
+            <player jerseyNumber="78">Ian McCoshen</player>
+            <player jerseyNumber="16">Aleksander Barkov</player>
+            <player jerseyNumber="5">Aaron Ekblad</player>
+            <player jerseyNumber="19">Jared McCann</player>
+            <player jerseyNumber="13">Jayce Hawryluk</player>
+            <player jerseyNumber="91">Juho Lammikko</player>
+            <player jerseyNumber="22">Dryden Hunt</player>
+            <player jerseyNumber="77">Frank Vatrano</player>
+            <player jerseyNumber="62">Denis Malgin</player>
+            <player jerseyNumber="61">Riley Stillman</player>
+            <player jerseyNumber="13">Henrik Borgstrom</player>
+            <player jerseyNumber="26">Jacob MacDonald</player>
+            <player jerseyNumber="28">Anthony Greco</player>
+            <player jerseyNumber="98">Maxim Mamin</player>
+            <player jerseyNumber="52">Bogdan Kiselevich</player>
+            <player jerseyNumber="25">Brady Keeper</player>
+            <player jerseyNumber="1">Roberto Luongo</player>
+            <player jerseyNumber="47">James Reimer</player>
+            <player jerseyNumber="34">Michael Hutchinson</player>
+            <player jerseyNumber="35">Sam Montembeault</player>
+        </players>
+    </team>
+    <team id="4">
+        <teamName>Philadelphia Flyers</teamName>
+        <teamStats>
+            <wins>37</wins>
+            <losses>37</losses>
+            <pts>82</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="28">Claude Giroux</player>
+            <player jerseyNumber="47">Andrew MacDonald</player>
+            <player jerseyNumber="25">James van Riemsdyk</player>
+            <player jerseyNumber="93">Jakub Voracek</player>
+            <player jerseyNumber="24">Wayne Simmonds</player>
+            <player jerseyNumber="15">Jori Lehtera</player>
+            <player jerseyNumber="22">Dale Weise</player>
+            <player jerseyNumber="10">Corban Knight</player>
+            <player jerseyNumber="44">Phil Varone</player>
+            <player jerseyNumber="7">Radko Gudas</player>
+            <player jerseyNumber="43">Jordan Weal</player>
+            <player jerseyNumber="14">Sean Couturier</player>
+            <player jerseyNumber="21">Scott Laughton</player>
+            <player jerseyNumber="14">Shayne Gostisbehere</player>
+            <player jerseyNumber="18">Michael Raffl</player>
+            <player jerseyNumber="12">Tyrell Goulbourne</player>
+            <player jerseyNumber="38">Ryan Hartman</player>
+            <player jerseyNumber="38">Robert Hagg</player>
+            <player jerseyNumber="95">Justin Bailey</player>
+            <player jerseyNumber="55">Samuel Morin</player>
+            <player jerseyNumber="32">Christian Folin</player>
+            <player jerseyNumber="6">Travis Sanheim</player>
+            <player jerseyNumber="96">Nicolas Aube-Kubel</player>
+            <player jerseyNumber="52">Mark Friedman</player>
+            <player jerseyNumber="23">Oskar Lindblom</player>
+            <player jerseyNumber="11">Travis Konecny</player>
+            <player jerseyNumber="9">Ivan Provorov</player>
+            <player jerseyNumber="24">Mikhail Vorobyev</player>
+            <player jerseyNumber="5">Philippe Myers</player>
+            <player jerseyNumber="41">Nolan Patrick</player>
+            <player jerseyNumber="56">Mike McKenna</player>
+            <player jerseyNumber="1">Brian Elliott</player>
+            <player jerseyNumber="30">Michal Neuvirth</player>
+            <player jerseyNumber="33">Cam Talbot</player>
+            <player jerseyNumber="30">Calvin Pickard</player>
+            <player jerseyNumber="41">Anthony Stolarz</player>
+            <player jerseyNumber="34">Alex Lyon</player>
+            <player jerseyNumber="79">Carter Hart</player>
+        </players>
+    </team>
+    <team id="5">
+        <teamName>Pittsburgh Penguins</teamName>
+        <teamStats>
+            <wins>44</wins>
+            <losses>26</losses>
+            <pts>100</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="7">Matt Cullen</player>
+            <player jerseyNumber="71">Evgeni Malkin</player>
+            <player jerseyNumber="87">Sidney Crosby</player>
+            <player jerseyNumber="8">Jack Johnson</player>
+            <player jerseyNumber="58">Kris Letang</player>
+            <player jerseyNumber="70">Patric Hornqvist</player>
+            <player jerseyNumber="61">Derick Brassard</player>
+            <player jerseyNumber="8">Phil Kessel</player>
+            <player jerseyNumber="62">Carl Hagelin</player>
+            <player jerseyNumber="4">Justin Schultz</player>
+            <player jerseyNumber="38">Derek Grant</player>
+            <player jerseyNumber="8">Brian Dumoulin</player>
+            <player jerseyNumber="28">Garrett Wilson</player>
+            <player jerseyNumber="17">Nick Bjugstad</player>
+            <player jerseyNumber="8">Riley Sheahan</player>
+            <player jerseyNumber="44">Erik Gudbranson</player>
+            <player jerseyNumber="17">Bryan Rust</player>
+            <player jerseyNumber="55">Zach Trotman</player>
+            <player jerseyNumber="24">Jamie Oleksiak</player>
+            <player jerseyNumber="70">Tanner Pearson</player>
+            <player jerseyNumber="2">Olli Maatta</player>
+            <player jerseyNumber="53">Teddy Blueger</player>
+            <player jerseyNumber="47">Joseph Blandisi</player>
+            <player jerseyNumber="2">Chad Ruhwedel</player>
+            <player jerseyNumber="59">Jake Guentzel</player>
+            <player jerseyNumber="">Jean-Sebastien Dea</player>
+            <player jerseyNumber="19">Jared McCann</player>
+            <player jerseyNumber="28">Marcus Pettersson</player>
+            <player jerseyNumber="91">Daniel Sprong</player>
+            <player jerseyNumber="51">Dominik Simon</player>
+            <player jerseyNumber="12">Zach Aston-Reese</player>
+            <player jerseyNumber="47">Adam Johnson</player>
+            <player jerseyNumber="50">Juuso Riikola</player>
+            <player jerseyNumber="30">Matt Murray</player>
+            <player jerseyNumber="35">Tristan Jarry</player>
+            <player jerseyNumber="1">Casey DeSmith</player>
+        </players>
+    </team>
+    <team id="8">
+        <teamName>Montréal Canadiens</teamName>
+        <teamStats>
+            <wins>44</wins>
+            <losses>30</losses>
+            <pts>96</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="14">Tomas Plekanec</player>
+            <player jerseyNumber="6">Shea Weber</player>
+            <player jerseyNumber="44">Nate Thompson</player>
+            <player jerseyNumber="26">Jeff Petry</player>
+            <player jerseyNumber="21">David Schlemko</player>
+            <player jerseyNumber="27">Karl Alzner</player>
+            <player jerseyNumber="41">Paul Byron</player>
+            <player jerseyNumber="22">Dale Weise</player>
+            <player jerseyNumber="18">Jordie Benn</player>
+            <player jerseyNumber="90">Tomas Tatar</player>
+            <player jerseyNumber="44">Nicolas Deslauriers</player>
+            <player jerseyNumber="43">Jordan Weal</player>
+            <player jerseyNumber="26">Michael Chaput</player>
+            <player jerseyNumber="18">Kenny Agostino</player>
+            <player jerseyNumber="11">Brendan Gallagher</player>
+            <player jerseyNumber="53">Matthew Peca</player>
+            <player jerseyNumber="65">Andrew Shaw</player>
+            <player jerseyNumber="6">Mike Reilly</player>
+            <player jerseyNumber="61">Xavier Ouellet</player>
+            <player jerseyNumber="40">Joel Armia</player>
+            <player jerseyNumber="24">Phillip Danault</player>
+            <player jerseyNumber="54">Charles Hudon</player>
+            <player jerseyNumber="27">Brett Kulak</player>
+            <player jerseyNumber="62">Artturi Lehkonen</player>
+            <player jerseyNumber="27">Jonathan Drouin</player>
+            <player jerseyNumber="13">Max Domi</player>
+            <player jerseyNumber="32">Christian Folin</player>
+            <player jerseyNumber="47">Noah Juulsen</player>
+            <player jerseyNumber="98">Victor Mete</player>
+            <player jerseyNumber="25">Ryan Poehling</player>
+            <player jerseyNumber="82">Jesperi Kotkaniemi</player>
+            <player jerseyNumber="31">Carey Price</player>
+            <player jerseyNumber="37">Antti Niemi</player>
+            <player jerseyNumber="79">Charlie Lindgren</player>
+        </players>
+    </team>
+    <team id="10">
+        <teamName>Toronto Maple Leafs</teamName>
+        <teamStats>
+            <wins>46</wins>
+            <losses>28</losses>
+            <pts>100</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="12">Patrick Marleau</player>
+            <player jerseyNumber="81">Ron Hainsey</player>
+            <player jerseyNumber="8">Jake Muzzin</player>
+            <player jerseyNumber="51">Jake Gardiner</player>
+            <player jerseyNumber="63">Tyler Ennis</player>
+            <player jerseyNumber="91">John Tavares</player>
+            <player jerseyNumber="91">Nazem Kadri</player>
+            <player jerseyNumber="52">Martin Marincin</player>
+            <player jerseyNumber="3">Justin Holl</player>
+            <player jerseyNumber="18">Zach Hyman</player>
+            <player jerseyNumber="17">Josh Leivo</player>
+            <player jerseyNumber="44">Morgan Rielly</player>
+            <player jerseyNumber="28">Connor Brown</player>
+            <player jerseyNumber="11">Andreas Johnsson</player>
+            <player jerseyNumber="19">Nic Petan</player>
+            <player jerseyNumber="38">Frederik Gauthier</player>
+            <player jerseyNumber="88">William Nylander</player>
+            <player jerseyNumber="42">Kasperi Kapanen</player>
+            <player jerseyNumber="24">Travis Dermott</player>
+            <player jerseyNumber="16">Mitchell Marner</player>
+            <player jerseyNumber="34">Auston Matthews</player>
+            <player jerseyNumber="22">Nikita Zaitsev</player>
+            <player jerseyNumber="12">Trevor Moore</player>
+            <player jerseyNumber="43">Calle Rosen</player>
+            <player jerseyNumber="92">Igor Ozhiganov</player>
+            <player jerseyNumber="26">Par Lindholm</player>
+            <player jerseyNumber="34">Michael Hutchinson</player>
+            <player jerseyNumber="31">Frederik Andersen</player>
+            <player jerseyNumber="80">Garret Sparks</player>
+        </players>
+    </team>
+    <team id="12">
+        <teamName>Carolina Hurricanes</teamName>
+        <teamStats>
+            <wins>46</wins>
+            <losses>29</losses>
+            <pts>99</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="14">Justin Williams</player>
+            <player jerseyNumber="11">Jordan Staal</player>
+            <player jerseyNumber="44">Calvin de Haan</player>
+            <player jerseyNumber="15">Greg McKegg</player>
+            <player jerseyNumber="72">Justin Faulk</player>
+            <player jerseyNumber="22">Nino Niederreiter</player>
+            <player jerseyNumber="79">Micheal Ferland</player>
+            <player jerseyNumber="49">Victor Rask</player>
+            <player jerseyNumber="7">Dougie Hamilton</player>
+            <player jerseyNumber="34">Phillip Di Giuseppe</player>
+            <player jerseyNumber="86">Teuvo Teravainen</player>
+            <player jerseyNumber="48">Jordan Martinook</player>
+            <player jerseyNumber="23">Brock McGinn</player>
+            <player jerseyNumber="47">Trevor Carrick</player>
+            <player jerseyNumber="74">Jaccob Slavin</player>
+            <player jerseyNumber="8">Saku Maenalanen</player>
+            <player jerseyNumber="7">Valentin Zykov</player>
+            <player jerseyNumber="22">Brett Pesce</player>
+            <player jerseyNumber="57">Trevor van Riemsdyk</player>
+            <player jerseyNumber="7">Haydn Fleury</player>
+            <player jerseyNumber="37">Warren Foegele</player>
+            <player jerseyNumber="71">Lucas Wallmark</player>
+            <player jerseyNumber="61">Clark Bishop</player>
+            <player jerseyNumber="20">Sebastian Aho</player>
+            <player jerseyNumber="10">Nicolas Roy</player>
+            <player jerseyNumber="22">Jake Bean</player>
+            <player jerseyNumber="59">Janne Kuokkanen</player>
+            <player jerseyNumber="88">Martin Necas</player>
+            <player jerseyNumber="37">Andrei Svechnikov</player>
+            <player jerseyNumber="38">Patrick Brown</player>
+            <player jerseyNumber="28">Aleksi Saarela</player>
+            <player jerseyNumber="35">Curtis McElhinney</player>
+            <player jerseyNumber="33">Scott Darling</player>
+            <player jerseyNumber="34">Petr Mrazek</player>
+            <player jerseyNumber="39">Alex Nedeljkovic</player>
+        </players>
+    </team>
+    <team id="29">
+        <teamName>Columbus Blue Jackets</teamName>
+        <teamStats>
+            <wins>47</wins>
+            <losses>31</losses>
+            <pts>98</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="17">Brandon Dubinsky</player>
+            <player jerseyNumber="54">Adam McQuaid</player>
+            <player jerseyNumber="17">Nick Foligno</player>
+            <player jerseyNumber="22">Mark Letestu</player>
+            <player jerseyNumber="16">Riley Nash</player>
+            <player jerseyNumber="22">Zac Dalpe</player>
+            <player jerseyNumber="89">Cam Atkinson</player>
+            <player jerseyNumber="95">Matt Duchene</player>
+            <player jerseyNumber="58">David Savard</player>
+            <player jerseyNumber="19">Ryan Dzingel</player>
+            <player jerseyNumber="23">Lukas Sedlak</player>
+            <player jerseyNumber="6">Adam Clendening</player>
+            <player jerseyNumber="38">Boone Jenner</player>
+            <player jerseyNumber="4">Scott Harrington</player>
+            <player jerseyNumber="28">Ryan Murray</player>
+            <player jerseyNumber="17">Josh Anderson</player>
+            <player jerseyNumber="10">Anthony Duclair</player>
+            <player jerseyNumber="22">Oliver Bjorkstrand</player>
+            <player jerseyNumber="4">Seth Jones</player>
+            <player jerseyNumber="21">Alex Wennberg</player>
+            <player jerseyNumber="15">Sonny Milano</player>
+            <player jerseyNumber="8">Zach Werenski</player>
+            <player jerseyNumber="53">Gabriel Carlsson</player>
+            <player jerseyNumber="37">Markus Hannikainen</player>
+            <player jerseyNumber="10">Artemi Panarin</player>
+            <player jerseyNumber="46">Dean Kukan</player>
+            <player jerseyNumber="11">Kevin Stenlund</player>
+            <player jerseyNumber="77">Markus Nutivaara</player>
+            <player jerseyNumber="77">Kole Sherwood</player>
+            <player jerseyNumber="80">Pierre-Luc Dubois</player>
+            <player jerseyNumber="42">Alexandre Texier</player>
+            <player jerseyNumber="50">Eric Robinson</player>
+            <player jerseyNumber="4">Vladislav Gavrikov</player>
+            <player jerseyNumber="72">Sergei Bobrovsky</player>
+            <player jerseyNumber="70">Joonas Korpisalo</player>
+        </players>
+    </team>
+    <team id="2">
+        <teamName>New York Islanders</teamName>
+        <teamStats>
+            <wins>48</wins>
+            <losses>27</losses>
+            <pts>103</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="51">Valtteri Filppula</player>
+            <player jerseyNumber="55">Johnny Boychuk</player>
+            <player jerseyNumber="16">Andrew Ladd</player>
+            <player jerseyNumber="10">Stephen Gionta</player>
+            <player jerseyNumber="47">Leo Komarov</player>
+            <player jerseyNumber="15">Cal Clutterbuck</player>
+            <player jerseyNumber="42">Thomas Hickey</player>
+            <player jerseyNumber="12">Josh Bailey</player>
+            <player jerseyNumber="55">Luca Sbisa</player>
+            <player jerseyNumber="7">Jordan Eberle</player>
+            <player jerseyNumber="17">Matt Martin</player>
+            <player jerseyNumber="4">Nick Leddy</player>
+            <player jerseyNumber="53">Casey Cizikas</player>
+            <player jerseyNumber="27">Anders Lee</player>
+            <player jerseyNumber="29">Brock Nelson</player>
+            <player jerseyNumber="14">Tom Kuhnhackl</player>
+            <player jerseyNumber="24">Scott Mayfield</player>
+            <player jerseyNumber="3">Adam Pelech</player>
+            <player jerseyNumber="6">Ryan Pulock</player>
+            <player jerseyNumber="32">Ross Johnston</player>
+            <player jerseyNumber="28">Michael Dal Colle</player>
+            <player jerseyNumber="52">Joshua Ho-Sang</player>
+            <player jerseyNumber="7">Devon Toews</player>
+            <player jerseyNumber="13">Mathew Barzal</player>
+            <player jerseyNumber="18">Anthony Beauvillier</player>
+            <player jerseyNumber="11">Tanner Fritz</player>
+            <player jerseyNumber="1">Thomas Greiss</player>
+            <player jerseyNumber="90">Robin Lehner</player>
+            <player jerseyNumber="1">Christopher Gibson</player>
+        </players>
+    </team>
+    <team id="15">
+        <teamName>Washington Capitals</teamName>
+        <teamStats>
+            <wins>48</wins>
+            <losses>26</losses>
+            <pts>104</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="44">Brooks Orpik</player>
+            <player jerseyNumber="8">Alex Ovechkin</player>
+            <player jerseyNumber="77">T.J. Oshie</player>
+            <player jerseyNumber="15">Matt Niskanen</player>
+            <player jerseyNumber="19">Nicklas Backstrom</player>
+            <player jerseyNumber="62">Carl Hagelin</player>
+            <player jerseyNumber="20">Lars Eller</player>
+            <player jerseyNumber="74">John Carlson</player>
+            <player jerseyNumber="9">Dmitry Orlov</player>
+            <player jerseyNumber="3">Nick Jensen</player>
+            <player jerseyNumber="26">Nic Dowd</player>
+            <player jerseyNumber="92">Evgeny Kuznetsov</player>
+            <player jerseyNumber="25">Devante Smith-Pelly</player>
+            <player jerseyNumber="20">Brett Connolly</player>
+            <player jerseyNumber="72">Travis Boyd</player>
+            <player jerseyNumber="93">Dmitrij Jaskin</player>
+            <player jerseyNumber="43">Tom Wilson</player>
+            <player jerseyNumber="20">Chandler Stephenson</player>
+            <player jerseyNumber="44">Christian Djoos</player>
+            <player jerseyNumber="55">Tyler Lewington</player>
+            <player jerseyNumber="95">Andre Burakovsky</player>
+            <player jerseyNumber="24">Madison Bowey</player>
+            <player jerseyNumber="26">Nathan Walker</player>
+            <player jerseyNumber="15">Jakub Vrana</player>
+            <player jerseyNumber="71">Jonas Siegenthaler</player>
+            <player jerseyNumber="36">Michal Kempny</player>
+            <player jerseyNumber="70">Braden Holtby</player>
+            <player jerseyNumber="29">Pheonix Copley</player>
+        </players>
+    </team>
+    <team id="6">
+        <teamName>Boston Bruins</teamName>
+        <teamStats>
+            <wins>49</wins>
+            <losses>24</losses>
+            <pts>107</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="33">Zdeno Chara</player>
+            <player jerseyNumber="37">Patrice Bergeron</player>
+            <player jerseyNumber="21">David Backes</player>
+            <player jerseyNumber="18">Lee Stempniak</player>
+            <player jerseyNumber="46">David Krejci</player>
+            <player jerseyNumber="63">Brad Marchand</player>
+            <player jerseyNumber="54">Steven Kampfer</player>
+            <player jerseyNumber="34">Paul Carey</player>
+            <player jerseyNumber="90">Marcus Johansson</player>
+            <player jerseyNumber="2">John Moore</player>
+            <player jerseyNumber="13">Charlie Coyle</player>
+            <player jerseyNumber="14">Chris Wagner</player>
+            <player jerseyNumber="20">Joakim Nordstrom</player>
+            <player jerseyNumber="86">Kevan Miller</player>
+            <player jerseyNumber="7">Sean Kuraly</player>
+            <player jerseyNumber="47">Torey Krug</player>
+            <player jerseyNumber="48">Matt Grzelcyk</player>
+            <player jerseyNumber="64">Gemel Smith</player>
+            <player jerseyNumber="36">Anton Blidh</player>
+            <player jerseyNumber="75">Connor Clifton</player>
+            <player jerseyNumber="22">Peter Cehlarik</player>
+            <player jerseyNumber="12">Colby Cave</player>
+            <player jerseyNumber="88">David Pastrnak</player>
+            <player jerseyNumber="9">Ryan Donato</player>
+            <player jerseyNumber="43">Danton Heinen</player>
+            <player jerseyNumber="15">Anders Bjork</player>
+            <player jerseyNumber="67">Jakub Zboril</player>
+            <player jerseyNumber="23">Jakob Forsbacka Karlsson</player>
+            <player jerseyNumber="25">Brandon Carlo</player>
+            <player jerseyNumber="3">Jeremy Lauzon</player>
+            <player jerseyNumber="56">Zach Senyshyn</player>
+            <player jerseyNumber="74">Jake DeBrusk</player>
+            <player jerseyNumber="52">Noel Acciari</player>
+            <player jerseyNumber="73">Charlie McAvoy</player>
+            <player jerseyNumber="11">Trent Frederic</player>
+            <player jerseyNumber="5">Urho Vaakanainen</player>
+            <player jerseyNumber="25">Karson Kuhlman</player>
+            <player jerseyNumber="41">Jaroslav Halak</player>
+            <player jerseyNumber="40">Tuukka Rask</player>
+        </players>
+    </team>
+    <team id="14">
+        <teamName>Tampa Bay Lightning</teamName>
+        <teamStats>
+            <wins>62</wins>
+            <losses>16</losses>
+            <pts>128</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="45">Braydon Coburn</player>
+            <player jerseyNumber="24">Ryan Callahan</player>
+            <player jerseyNumber="86">Anton Stralman</player>
+            <player jerseyNumber="5">Dan Girardi</player>
+            <player jerseyNumber="17">Alex Killorn</player>
+            <player jerseyNumber="27">Ryan McDonagh</player>
+            <player jerseyNumber="91">Steven Stamkos</player>
+            <player jerseyNumber="33">Cameron Gaunce</player>
+            <player jerseyNumber="90">Tyler Johnson</player>
+            <player jerseyNumber="77">Victor Hedman</player>
+            <player jerseyNumber="89">Cory Conacher</player>
+            <player jerseyNumber="18">Ondrej Palat</player>
+            <player jerseyNumber="86">Nikita Kucherov</player>
+            <player jerseyNumber="9">J.T. Miller</player>
+            <player jerseyNumber="37">Yanni Gourde</player>
+            <player jerseyNumber="20">Slater Koekkoek</player>
+            <player jerseyNumber="13">Cedric Paquette</player>
+            <player jerseyNumber="73">Adam Erne</player>
+            <player jerseyNumber="21">Brayden Point</player>
+            <player jerseyNumber="62">Danick Martel</player>
+            <player jerseyNumber="81">Erik Cernak</player>
+            <player jerseyNumber="21">Mathieu Joseph</player>
+            <player jerseyNumber="71">Anthony Cirelli</player>
+            <player jerseyNumber="98">Mikhail Sergachev</player>
+            <player jerseyNumber="44">Jan Rutta</player>
+            <player jerseyNumber="80">Edward Pasquale</player>
+            <player jerseyNumber="70">Louis Domingue</player>
+            <player jerseyNumber="88">Andrei Vasilevskiy</player>
+        </players>
+    </team>
+    <team id="26">
+        <teamName>Los Angeles Kings</teamName>
+        <teamStats>
+            <wins>31</wins>
+            <losses>42</losses>
+            <pts>71</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="17">Ilya Kovalchuk</player>
+            <player jerseyNumber="3">Dion Phaneuf</player>
+            <player jerseyNumber="77">Jeff Carter</player>
+            <player jerseyNumber="23">Dustin Brown</player>
+            <player jerseyNumber="44">Nate Thompson</player>
+            <player jerseyNumber="11">Anze Kopitar</player>
+            <player jerseyNumber="22">Trevor Lewis</player>
+            <player jerseyNumber="8">Jake Muzzin</player>
+            <player jerseyNumber="23">Alec Martinez</player>
+            <player jerseyNumber="62">Carl Hagelin</player>
+            <player jerseyNumber="8">Drew Doughty</player>
+            <player jerseyNumber="43">Kyle Clifford</player>
+            <player jerseyNumber="73">Tyler Toffoli</player>
+            <player jerseyNumber="28">Derek Forbort</player>
+            <player jerseyNumber="70">Tanner Pearson</player>
+            <player jerseyNumber="28">Brendan Leipsic</player>
+            <player jerseyNumber="34">Paul LaDue</player>
+            <player jerseyNumber="56">Kurtis MacDermid</player>
+            <player jerseyNumber="76">Jonny Brodzinski</player>
+            <player jerseyNumber="21">Nikita Scherbak</player>
+            <player jerseyNumber="9">Adrian Kempe</player>
+            <player jerseyNumber="22">Michael Amadio</player>
+            <player jerseyNumber="27">Austin Wagner</player>
+            <player jerseyNumber="3">Matt Roy</player>
+            <player jerseyNumber="91">Carl Grundstrom</player>
+            <player jerseyNumber="22">Matt Luff</player>
+            <player jerseyNumber="28">Jaret Anderson-Dolan</player>
+            <player jerseyNumber="19">Alex Iafallo</player>
+            <player jerseyNumber="5">Oscar Fantenberg</player>
+            <player jerseyNumber="26">Sean Walker</player>
+            <player jerseyNumber="78">Daniel Brickley</player>
+            <player jerseyNumber="56">Sheldon Rempal</player>
+            <player jerseyNumber="46">Blake Lizotte</player>
+            <player jerseyNumber="31">Peter Budaj</player>
+            <player jerseyNumber="32">Jonathan Quick</player>
+            <player jerseyNumber="36">Jack Campbell</player>
+            <player jerseyNumber="40">Cal Petersen</player>
+        </players>
+    </team>
+    <team id="22">
+        <teamName>Edmonton Oilers</teamName>
+        <teamStats>
+            <wins>35</wins>
+            <losses>38</losses>
+            <pts>79</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="28">Kyle Brodziak</player>
+            <player jerseyNumber="5">Andrej Sekera</player>
+            <player jerseyNumber="6">Kris Russell</player>
+            <player jerseyNumber="17">Milan Lucic</player>
+            <player jerseyNumber="89">Sam Gagner</player>
+            <player jerseyNumber="24">Brad Malone</player>
+            <player jerseyNumber="">Jason Garrison</player>
+            <player jerseyNumber="39">Alex Chiasson</player>
+            <player jerseyNumber="44">Zack Kassian</player>
+            <player jerseyNumber="6">Chris Wideman</player>
+            <player jerseyNumber="26">Brandon Manning</player>
+            <player jerseyNumber="15">Ryan Spooner</player>
+            <player jerseyNumber="28">Alexander Petrovic</player>
+            <player jerseyNumber="">Kevin Gravel</player>
+            <player jerseyNumber="13">Tobias Rieder</player>
+            <player jerseyNumber="8">Ty Rattie</player>
+            <player jerseyNumber="93">Ryan Nugent-Hopkins</player>
+            <player jerseyNumber="6">Adam Larsson</player>
+            <player jerseyNumber="16">Ryan Strome</player>
+            <player jerseyNumber="77">Oscar Klefbom</player>
+            <player jerseyNumber="16">Jujhar Khaira</player>
+            <player jerseyNumber="5">Matt Benning</player>
+            <player jerseyNumber="7">Valentin Zykov</player>
+            <player jerseyNumber="25">Darnell Nurse</player>
+            <player jerseyNumber="12">Colby Cave</player>
+            <player jerseyNumber="41">Josh Currie</player>
+            <player jerseyNumber="29">Leon Draisaitl</player>
+            <player jerseyNumber="97">Connor McDavid</player>
+            <player jerseyNumber="65">Cooper Marody</player>
+            <player jerseyNumber="82">Caleb Jones</player>
+            <player jerseyNumber="13">Jesse Puljujarvi</player>
+            <player jerseyNumber="18">Drake Caggiula</player>
+            <player jerseyNumber="52">Patrick Russell</player>
+            <player jerseyNumber="36">Joseph Gambardella</player>
+            <player jerseyNumber="56">Kailer Yamamoto</player>
+            <player jerseyNumber="2">Evan Bouchard</player>
+            <player jerseyNumber="19">Mikko Koskinen</player>
+            <player jerseyNumber="33">Cam Talbot</player>
+            <player jerseyNumber="41">Anthony Stolarz</player>
+        </players>
+    </team>
+    <team id="23">
+        <teamName>Vancouver Canucks</teamName>
+        <teamStats>
+            <wins>35</wins>
+            <losses>36</losses>
+            <pts>81</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="21">Loui Eriksson</player>
+            <player jerseyNumber="2">Alexander Edler</player>
+            <player jerseyNumber="33">Alex Biega</player>
+            <player jerseyNumber="89">Sam Gagner</player>
+            <player jerseyNumber="20">Brandon Sutter</player>
+            <player jerseyNumber="83">Jay Beagle</player>
+            <player jerseyNumber="2">Luke Schenn</player>
+            <player jerseyNumber="4">Michael Del Zotto</player>
+            <player jerseyNumber="26">Antoine Roussel</player>
+            <player jerseyNumber="90">Darren Archibald</player>
+            <player jerseyNumber="8">Chris Tanev</player>
+            <player jerseyNumber="15">Ryan Spooner</player>
+            <player jerseyNumber="44">Erik Gudbranson</player>
+            <player jerseyNumber="17">Josh Leivo</player>
+            <player jerseyNumber="24">Reid Boucher</player>
+            <player jerseyNumber="60">Markus Granlund</player>
+            <player jerseyNumber="47">Sven Baertschi</player>
+            <player jerseyNumber="16">Brendan Gaunce</player>
+            <player jerseyNumber="70">Tanner Pearson</player>
+            <player jerseyNumber="51">Derrick Pouliot</player>
+            <player jerseyNumber="28">Brendan Leipsic</player>
+            <player jerseyNumber="17">Ben Hutton</player>
+            <player jerseyNumber="29">Ashton Sautner</player>
+            <player jerseyNumber="59">Tim Schaller</player>
+            <player jerseyNumber="14">Tyler Motte</player>
+            <player jerseyNumber="53">Bo Horvat</player>
+            <player jerseyNumber="18">Jake Virtanen</player>
+            <player jerseyNumber="77">Nikolay Goldobin</player>
+            <player jerseyNumber="6">Brock Boeser</player>
+            <player jerseyNumber="55">Guillaume Brisebois</player>
+            <player jerseyNumber="71">Adam Gaudette</player>
+            <player jerseyNumber="51">Troy Stecher</player>
+            <player jerseyNumber="17">Zack MacEwen</player>
+            <player jerseyNumber="40">Elias Pettersson</player>
+            <player jerseyNumber="43">Quinn Hughes</player>
+            <player jerseyNumber="34">Josh Teves</player>
+            <player jerseyNumber="5">Brogan Rafferty</player>
+            <player jerseyNumber="32">Richard Bachman</player>
+            <player jerseyNumber="25">Jacob Markstrom</player>
+            <player jerseyNumber="">Anders Nilsson</player>
+            <player jerseyNumber="35">Thatcher Demko</player>
+            <player jerseyNumber="">Michael DiPietro</player>
+        </players>
+    </team>
+    <team id="24">
+        <teamName>Anaheim Ducks</teamName>
+        <teamStats>
+            <wins>35</wins>
+            <losses>37</losses>
+            <pts>80</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="15">Ryan Getzlaf</player>
+            <player jerseyNumber="17">Ryan Kesler</player>
+            <player jerseyNumber="10">Corey Perry</player>
+            <player jerseyNumber="18">Patrick Eaves</player>
+            <player jerseyNumber="27">Adam Cracknell</player>
+            <player jerseyNumber="11">Andrew Cogliano</player>
+            <player jerseyNumber="22">Korbinian Holzer</player>
+            <player jerseyNumber="2">Luke Schenn</player>
+            <player jerseyNumber="4">Michael Del Zotto</player>
+            <player jerseyNumber="14">Adam Henrique</player>
+            <player jerseyNumber="38">Derek Grant</player>
+            <player jerseyNumber="33">Jakob Silfverberg</player>
+            <player jerseyNumber="4">Cam Fowler</player>
+            <player jerseyNumber="39">Sam Carrick</player>
+            <player jerseyNumber="36">Ben Street</player>
+            <player jerseyNumber="29">Brian Gibbons</player>
+            <player jerseyNumber="42">Josh Manson</player>
+            <player jerseyNumber="37">Andy Welinski</player>
+            <player jerseyNumber="67">Rickard Rakell</player>
+            <player jerseyNumber="27">Hampus Lindholm</player>
+            <player jerseyNumber="46">Pontus Aberg</player>
+            <player jerseyNumber="14">Devin Shore</player>
+            <player jerseyNumber="26">Kevin Roy</player>
+            <player jerseyNumber="59">Jake Dotchin</player>
+            <player jerseyNumber="47">Joseph Blandisi</player>
+            <player jerseyNumber="24">Jaycob Megna</player>
+            <player jerseyNumber="59">Andrej Sustr</player>
+            <player jerseyNumber="37">Carter Rowney</player>
+            <player jerseyNumber="12">Nick Ritchie</player>
+            <player jerseyNumber="28">Marcus Pettersson</player>
+            <player jerseyNumber="62">Brandon Montour</player>
+            <player jerseyNumber="7">Chase De Leo</player>
+            <player jerseyNumber="73">Ondrej Kase</player>
+            <player jerseyNumber="2">Brendan Guhle</player>
+            <player jerseyNumber="91">Daniel Sprong</player>
+            <player jerseyNumber="32">Jacob Larsson</player>
+            <player jerseyNumber="19">Troy Terry</player>
+            <player jerseyNumber="48">Kalle Kossila</player>
+            <player jerseyNumber="13">Sam Steel</player>
+            <player jerseyNumber="49">Max Jones</player>
+            <player jerseyNumber="28">Josh Mahura</player>
+            <player jerseyNumber="44">Max Comtois</player>
+            <player jerseyNumber="81">Justin Kloos</player>
+            <player jerseyNumber="44">Kiefer Sherwood</player>
+            <player jerseyNumber="21">Isac Lundestrom</player>
+            <player jerseyNumber="30">Ryan Miller</player>
+            <player jerseyNumber="1">Chad Johnson</player>
+            <player jerseyNumber="36">John Gibson</player>
+            <player jerseyNumber="34">Kevin Boyle</player>
+        </players>
+    </team>
+    <team id="16">
+        <teamName>Chicago Blackhawks</teamName>
+        <teamStats>
+            <wins>36</wins>
+            <losses>34</losses>
+            <pts>84</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="2">Duncan Keith</player>
+            <player jerseyNumber="14">Chris Kunitz</player>
+            <player jerseyNumber="">Brent Seabrook</player>
+            <player jerseyNumber="51">Artem Anisimov</player>
+            <player jerseyNumber="19">Jonathan Toews</player>
+            <player jerseyNumber="88">Patrick Kane</player>
+            <player jerseyNumber="16">Marcus Kruger</player>
+            <player jerseyNumber="26">Brandon Manning</player>
+            <player jerseyNumber="88">Brandon Davidson</player>
+            <player jerseyNumber="20">Brandon Saad</player>
+            <player jerseyNumber="5">Connor Murphy</player>
+            <player jerseyNumber="20">Slater Koekkoek</player>
+            <player jerseyNumber="56">Erik Gustafsson</player>
+            <player jerseyNumber="41">Luke Johnson</player>
+            <player jerseyNumber="15">John Hayden</player>
+            <player jerseyNumber="48">Carl Dahlstrom</player>
+            <player jerseyNumber="42">Brendan Perlini</player>
+            <player jerseyNumber="8">Nick Schmaltz</player>
+            <player jerseyNumber="42">Gustav Forsling</player>
+            <player jerseyNumber="79">Dylan Sikura</player>
+            <player jerseyNumber="17">Dylan Strome</player>
+            <player jerseyNumber="48">Dennis Gilbert</player>
+            <player jerseyNumber="23">Andreas Martinsen</player>
+            <player jerseyNumber="12">Alex DeBrincat</player>
+            <player jerseyNumber="18">Drake Caggiula</player>
+            <player jerseyNumber="84">Alexandre Fortin</player>
+            <player jerseyNumber="10">Henri Jokiharju</player>
+            <player jerseyNumber="64">David Kampf</player>
+            <player jerseyNumber="44">Jan Rutta</player>
+            <player jerseyNumber="21">Dominik Kahun</player>
+            <player jerseyNumber="67">Jacob Nilsson</player>
+            <player jerseyNumber="30">Cam Ward</player>
+            <player jerseyNumber="50">Corey Crawford</player>
+            <player jerseyNumber="60">Collin Delia</player>
+        </players>
+    </team>
+    <team id="30">
+        <teamName>Minnesota Wild</teamName>
+        <teamStats>
+            <wins>37</wins>
+            <losses>36</losses>
+            <pts>83</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="15">Matt Hendricks</player>
+            <player jerseyNumber="9">Mikko Koivu</player>
+            <player jerseyNumber="12">Eric Staal</player>
+            <player jerseyNumber="20">Ryan Suter</player>
+            <player jerseyNumber="11">Zach Parise</player>
+            <player jerseyNumber="21">Eric Fehr</player>
+            <player jerseyNumber="29">Greg Pateryn</player>
+            <player jerseyNumber="46">Jared Spurgeon</player>
+            <player jerseyNumber="44">Matt Bartkowski</player>
+            <player jerseyNumber="17">Marcus Foligno</player>
+            <player jerseyNumber="39">Nate Prosser</player>
+            <player jerseyNumber="16">Jason Zucker</player>
+            <player jerseyNumber="13">Charlie Coyle</player>
+            <player jerseyNumber="64">Mikael Granlund</player>
+            <player jerseyNumber="22">Nino Niederreiter</player>
+            <player jerseyNumber="2">Anthony Bitetto</player>
+            <player jerseyNumber="10">Matt Read</player>
+            <player jerseyNumber="24">Nick Seeler</player>
+            <player jerseyNumber="37">Kyle Rau</player>
+            <player jerseyNumber="49">Victor Rask</player>
+            <player jerseyNumber="25">Jonas Brodin</player>
+            <player jerseyNumber="87">Ryan Murphy</player>
+            <player jerseyNumber="77">Brad Hunt</player>
+            <player jerseyNumber="23">JT Brown</player>
+            <player jerseyNumber="24">Matt Dumba</player>
+            <player jerseyNumber="46">Pontus Aberg</player>
+            <player jerseyNumber="22">Kevin Fiala</player>
+            <player jerseyNumber="9">Ryan Donato</player>
+            <player jerseyNumber="37">Louie Belpedio</player>
+            <player jerseyNumber="18">Jordan Greenway</player>
+            <player jerseyNumber="14">Joel Eriksson Ek</player>
+            <player jerseyNumber="11">Luke Kunin</player>
+            <player jerseyNumber="7">Nico Sturm</player>
+            <player jerseyNumber="40">Devan Dubnyk</player>
+            <player jerseyNumber="32">Alex Stalock</player>
+        </players>
+    </team>
+    <team id="21">
+        <teamName>Colorado Avalanche</teamName>
+        <teamStats>
+            <wins>38</wins>
+            <losses>30</losses>
+            <pts>90</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="34">Carl Soderberg</player>
+            <player jerseyNumber="6">Erik Johnson</player>
+            <player jerseyNumber="61">Derick Brassard</player>
+            <player jerseyNumber="28">Ian Cole</player>
+            <player jerseyNumber="22">Colin Wilson</player>
+            <player jerseyNumber="11">Matt Calvert</player>
+            <player jerseyNumber="44">Mark Barberio</player>
+            <player jerseyNumber="22">Tyson Barrie</player>
+            <player jerseyNumber="57">Gabriel Bourque</player>
+            <player jerseyNumber="26">Andrew Agozzino</player>
+            <player jerseyNumber="5">Mark Alt</player>
+            <player jerseyNumber="2">Patrik Nemeth</player>
+            <player jerseyNumber="83">Matt Nieto</player>
+            <player jerseyNumber="92">Gabriel Landeskog</player>
+            <player jerseyNumber="21">Dominic Toninato</player>
+            <player jerseyNumber="15">Alexander Kerfoot</player>
+            <player jerseyNumber="10">Sven Andrighetto</player>
+            <player jerseyNumber="33">Ryan Graves</player>
+            <player jerseyNumber="56">Marko Dano</player>
+            <player jerseyNumber="37">J.T. Compher</player>
+            <player jerseyNumber="29">Nathan MacKinnon</player>
+            <player jerseyNumber="16">Nikita Zadorov</player>
+            <player jerseyNumber="81">Vladislav Kamenev</player>
+            <player jerseyNumber="54">Anton Lindholm</player>
+            <player jerseyNumber="96">Mikko Rantanen</player>
+            <player jerseyNumber="10">A.J. Greer</player>
+            <player jerseyNumber="10">Tyson Jost</player>
+            <player jerseyNumber="49">Samuel Girard</player>
+            <player jerseyNumber="15">Sheldon Dries</player>
+            <player jerseyNumber="25">Logan O'Connor</player>
+            <player jerseyNumber="8">Cale Makar</player>
+            <player jerseyNumber="40">Semyon Varlamov</player>
+            <player jerseyNumber="31">Philipp Grubauer</player>
+            <player jerseyNumber="39">Pavel Francouz</player>
+        </players>
+    </team>
+    <team id="53">
+        <teamName>Arizona Coyotes</teamName>
+        <teamStats>
+            <wins>39</wins>
+            <losses>35</losses>
+            <pts>86</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="13">Brad Richardson</player>
+            <player jerseyNumber="33">Alex Goligoski</player>
+            <player jerseyNumber="4">Niklas Hjalmarsson</player>
+            <player jerseyNumber="40">Michael Grabner</player>
+            <player jerseyNumber="21">Mario Kempe</player>
+            <player jerseyNumber="55">Jason Demers</player>
+            <player jerseyNumber="21">Derek Stepan</player>
+            <player jerseyNumber="23">Oliver Ekman-Larsson</player>
+            <player jerseyNumber="16">Richard Panik</player>
+            <player jerseyNumber="8">Kevin Connauton</player>
+            <player jerseyNumber="43">Jordan Weal</player>
+            <player jerseyNumber="15">Josh Archibald</player>
+            <player jerseyNumber="21">Nick Cousins</player>
+            <player jerseyNumber="17">Alex Galchenyuk</player>
+            <player jerseyNumber="29">Vinnie Hinostroza</player>
+            <player jerseyNumber="26">Laurent Dauphin</player>
+            <player jerseyNumber="6">Dakota Mermis</player>
+            <player jerseyNumber="82">Jordan Oesterle</player>
+            <player jerseyNumber="42">Brendan Perlini</player>
+            <player jerseyNumber="8">Nick Schmaltz</player>
+            <player jerseyNumber="28">Christian Dvorak</player>
+            <player jerseyNumber="58">Michael Bunting</player>
+            <player jerseyNumber="36">Christian Fischer</player>
+            <player jerseyNumber="17">Dylan Strome</player>
+            <player jerseyNumber="67">Lawson Crouse</player>
+            <player jerseyNumber="77">Kyle Capobianco</player>
+            <player jerseyNumber="8">Conor Garland</player>
+            <player jerseyNumber="9">Clayton Keller</player>
+            <player jerseyNumber="6">Jakob Chychrun</player>
+            <player jerseyNumber="46">Ilya Lyubushkin</player>
+            <player jerseyNumber="35">Darcy Kuemper</player>
+            <player jerseyNumber="30">Calvin Pickard</player>
+            <player jerseyNumber="32">Antti Raanta</player>
+            <player jerseyNumber="33">Adin Hill</player>
+            <player jerseyNumber="32">Hunter Miska</player>
+        </players>
+    </team>
+    <team id="25">
+        <teamName>Dallas Stars</teamName>
+        <teamStats>
+            <wins>43</wins>
+            <losses>32</losses>
+            <pts>93</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="19">Jason Spezza</player>
+            <player jerseyNumber="33">Marc Methot</player>
+            <player jerseyNumber="47">Alexander Radulov</player>
+            <player jerseyNumber="15">Blake Comeau</player>
+            <player jerseyNumber="45">Roman Polak</player>
+            <player jerseyNumber="40">Martin Hanzal</player>
+            <player jerseyNumber="11">Andrew Cogliano</player>
+            <player jerseyNumber="27">Erik Condra</player>
+            <player jerseyNumber="21">Ben Lovejoy</player>
+            <player jerseyNumber="14">Jamie Benn</player>
+            <player jerseyNumber="73">Justin Dowling</player>
+            <player jerseyNumber="36">Mats Zuccarello</player>
+            <player jerseyNumber="9">Tyler Pitlick</player>
+            <player jerseyNumber="91">Tyler Seguin</player>
+            <player jerseyNumber="3">John Klingberg</player>
+            <player jerseyNumber="4">Taylor Fedun</player>
+            <player jerseyNumber="24">Brett Ritchie</player>
+            <player jerseyNumber="24">Jamie Oleksiak</player>
+            <player jerseyNumber="12">Radek Faksa</player>
+            <player jerseyNumber="23">Esa Lindell</player>
+            <player jerseyNumber="14">Devin Shore</player>
+            <player jerseyNumber="58">Connor Carrick</player>
+            <player jerseyNumber="64">Gemel Smith</player>
+            <player jerseyNumber="26">Mattias Janmark</player>
+            <player jerseyNumber="17">Jason Dickinson</player>
+            <player jerseyNumber="29">Dillon Heatherington</player>
+            <player jerseyNumber="13">Valeri Nichushkin</player>
+            <player jerseyNumber="44">Joel Hanley</player>
+            <player jerseyNumber="6">Julius Honka</player>
+            <player jerseyNumber="24">Roope Hintz</player>
+            <player jerseyNumber="34">Denis Gurianov</player>
+            <player jerseyNumber="63">Ben Gleason</player>
+            <player jerseyNumber="15">Gavin Bayreuther</player>
+            <player jerseyNumber="4">Miro Heiskanen</player>
+            <player jerseyNumber="38">Joel L'Esperance</player>
+            <player jerseyNumber="35">Anton Khudobin</player>
+            <player jerseyNumber="">Ben Bishop</player>
+            <player jerseyNumber="41">Landon Bow</player>
+        </players>
+    </team>
+    <team id="54">
+        <teamName>Vegas Golden Knights</teamName>
+        <teamStats>
+            <wins>43</wins>
+            <losses>32</losses>
+            <pts>93</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="5">Deryk Engelland</player>
+            <player jerseyNumber="26">Paul Stastny</player>
+            <player jerseyNumber="75">Ryan Reaves</player>
+            <player jerseyNumber="67">Max Pacioretty</player>
+            <player jerseyNumber="5">Nick Holden</player>
+            <player jerseyNumber="3">Brayden McNabb</player>
+            <player jerseyNumber="19">Reilly Smith</player>
+            <player jerseyNumber="73">Brandon Pirri</player>
+            <player jerseyNumber="20">Cody Eakin</player>
+            <player jerseyNumber="56">Erik Haula</player>
+            <player jerseyNumber="24">Oscar Lindberg</player>
+            <player jerseyNumber="4">Jon Merrill</player>
+            <player jerseyNumber="61">Mark Stone</player>
+            <player jerseyNumber="71">William Karlsson</player>
+            <player jerseyNumber="6">Colin Miller</player>
+            <player jerseyNumber="81">Jonathan Marchessault</player>
+            <player jerseyNumber="38">Tomas Hyka</player>
+            <player jerseyNumber="77">Brad Hunt</player>
+            <player jerseyNumber="88">Nate Schmidt</player>
+            <player jerseyNumber="27">Shea Theodore</player>
+            <player jerseyNumber="7">Valentin Zykov</player>
+            <player jerseyNumber="28">William Carrier</player>
+            <player jerseyNumber="22">Ryan Carpenter</player>
+            <player jerseyNumber="28">Daniel Carr</player>
+            <player jerseyNumber="41">Pierre-Edouard Bellemare</player>
+            <player jerseyNumber="92">Tomas Nosek</player>
+            <player jerseyNumber="89">Alex Tuch</player>
+            <player jerseyNumber="44">Jimmy Schuldt</player>
+            <player jerseyNumber="29">Marc-Andre Fleury</player>
+            <player jerseyNumber="33">Maxime Lagace</player>
+            <player jerseyNumber="47">Malcolm Subban</player>
+        </players>
+    </team>
+    <team id="19">
+        <teamName>St. Louis Blues</teamName>
+        <teamStats>
+            <wins>45</wins>
+            <losses>28</losses>
+            <pts>99</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="22">Chris Thorburn</player>
+            <player jerseyNumber="19">Jay Bouwmeester</player>
+            <player jerseyNumber="20">Alexander Steen</player>
+            <player jerseyNumber="25">Chris Butler</player>
+            <player jerseyNumber="14">Pat Maroon</player>
+            <player jerseyNumber="57">David Perron</player>
+            <player jerseyNumber="4">Carl Gunnarsson</player>
+            <player jerseyNumber="41">Robert Bortuzzo</player>
+            <player jerseyNumber="7">Alex Pietrangelo</player>
+            <player jerseyNumber="4">Michael Del Zotto</player>
+            <player jerseyNumber="21">Tyler Bozak</player>
+            <player jerseyNumber="90">Ryan O'Reilly</player>
+            <player jerseyNumber="10">Brayden Schenn</player>
+            <player jerseyNumber="71">Jordan Nolan</player>
+            <player jerseyNumber="91">Vladimir Tarasenko</player>
+            <player jerseyNumber="17">Jaden Schwartz</player>
+            <player jerseyNumber="44">Joel Edmundson</player>
+            <player jerseyNumber="2">Jordan Schmaltz</player>
+            <player jerseyNumber="55">Colton Parayko</player>
+            <player jerseyNumber="70">Oskar Sundqvist</player>
+            <player jerseyNumber="28">Mackenzie MacEachern</player>
+            <player jerseyNumber="12">Zach Sanford</player>
+            <player jerseyNumber="14">Robby Fabbri</player>
+            <player jerseyNumber="49">Ivan Barbashev</player>
+            <player jerseyNumber="91">Sammy Blais</player>
+            <player jerseyNumber="41">Nikita Soshnikov</player>
+            <player jerseyNumber="29">Vince Dunn</player>
+            <player jerseyNumber="25">Jordan Kyrou</player>
+            <player jerseyNumber="18">Robert Thomas</player>
+            <player jerseyNumber="28">Jakub Jerabek</player>
+            <player jerseyNumber="1">Chad Johnson</player>
+            <player jerseyNumber="34">Jake Allen</player>
+            <player jerseyNumber="50">Jordan Binnington</player>
+        </players>
+    </team>
+    <team id="28">
+        <teamName>San Jose Sharks</teamName>
+        <teamStats>
+            <wins>46</wins>
+            <losses>27</losses>
+            <pts>101</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="19">Joe Thornton</player>
+            <player jerseyNumber="8">Brent Burns</player>
+            <player jerseyNumber="16">Joe Pavelski</player>
+            <player jerseyNumber="44">Marc-Edouard Vlasic</player>
+            <player jerseyNumber="61">Justin Braun</player>
+            <player jerseyNumber="39">Logan Couture</player>
+            <player jerseyNumber="38">Micheal Haley</player>
+            <player jerseyNumber="65">Erik Karlsson</player>
+            <player jerseyNumber="14">Gustav Nyquist</player>
+            <player jerseyNumber="91">Evander Kane</player>
+            <player jerseyNumber="5">Brenden Dillon</player>
+            <player jerseyNumber="72">Joonas Donskoi</player>
+            <player jerseyNumber="20">Marcus Sorensen</player>
+            <player jerseyNumber="72">Tim Heed</player>
+            <player jerseyNumber="21">Barclay Goodrow</player>
+            <player jerseyNumber="48">Tomas Hertl</player>
+            <player jerseyNumber="33">Joakim Ryan</player>
+            <player jerseyNumber="68">Melker Karlsson</player>
+            <player jerseyNumber="67">Rourke Chartier</player>
+            <player jerseyNumber="62">Kevin Labanc</player>
+            <player jerseyNumber="5">Jake Middleton</player>
+            <player jerseyNumber="28">Timo Meier</player>
+            <player jerseyNumber="27">Dylan Gambrell</player>
+            <player jerseyNumber="51">Radim Simek</player>
+            <player jerseyNumber="52">Lukas Radil</player>
+            <player jerseyNumber="40">Antti Suomela</player>
+            <player jerseyNumber="30">Martin Jones</player>
+            <player jerseyNumber="80">Aaron Dell</player>
+        </players>
+    </team>
+    <team id="18">
+        <teamName>Nashville Predators</teamName>
+        <teamStats>
+            <wins>47</wins>
+            <losses>29</losses>
+            <pts>100</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="5">Dan Hamhuis</player>
+            <player jerseyNumber="11">Brian Boyle</player>
+            <player jerseyNumber="55">Cody McLeod</player>
+            <player jerseyNumber="13">Nick Bonino</player>
+            <player jerseyNumber="76">P.K. Subban</player>
+            <player jerseyNumber="8">Kyle Turris</player>
+            <player jerseyNumber="3">Yannick Weber</player>
+            <player jerseyNumber="24">Wayne Simmonds</player>
+            <player jerseyNumber="59">Roman Josi</player>
+            <player jerseyNumber="46">Matt Donovan</player>
+            <player jerseyNumber="36">Zac Rinaldo</player>
+            <player jerseyNumber="94">Ryan Ellis</player>
+            <player jerseyNumber="14">Mattias Ekholm</player>
+            <player jerseyNumber="12">Craig Smith</player>
+            <player jerseyNumber="52">Matt Irwin</player>
+            <player jerseyNumber="19">Calle Jarnkrok</player>
+            <player jerseyNumber="16">Austin Watson</player>
+            <player jerseyNumber="92">Ryan Johansen</player>
+            <player jerseyNumber="64">Mikael Granlund</player>
+            <player jerseyNumber="2">Anthony Bitetto</player>
+            <player jerseyNumber="43">Colin Blackwell</player>
+            <player jerseyNumber="23">Rocco Grimaldi</player>
+            <player jerseyNumber="10">Miikka Salomaki</player>
+            <player jerseyNumber="34">Phillip Di Giuseppe</player>
+            <player jerseyNumber="9">Filip Forsberg</player>
+            <player jerseyNumber="10">Colton Sissons</player>
+            <player jerseyNumber="38">Ryan Hartman</player>
+            <player jerseyNumber="89">Frederick Gaudreau</player>
+            <player jerseyNumber="22">Kevin Fiala</player>
+            <player jerseyNumber="33">Viktor Arvidsson</player>
+            <player jerseyNumber="90">Anthony Richard</player>
+            <player jerseyNumber="57">Dante Fabbro</player>
+            <player jerseyNumber="32">Rem Pitlick</player>
+            <player jerseyNumber="28">Eeli Tolvanen</player>
+            <player jerseyNumber="35">Pekka Rinne</player>
+            <player jerseyNumber="74">Juuse Saros</player>
+        </players>
+    </team>
+    <team id="52">
+        <teamName>Winnipeg Jets</teamName>
+        <teamStats>
+            <wins>47</wins>
+            <losses>30</losses>
+            <pts>99</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="15">Matt Hendricks</player>
+            <player jerseyNumber="33">Dustin Byfuglien</player>
+            <player jerseyNumber="26">Blake Wheeler</player>
+            <player jerseyNumber="">Bryan Little</player>
+            <player jerseyNumber="85">Mathieu Perreault</player>
+            <player jerseyNumber="57">Tyler Myers</player>
+            <player jerseyNumber="29">Dmitry Kulikov</player>
+            <player jerseyNumber="8">Ben Chiarot</player>
+            <player jerseyNumber="13">Kevin Hayes</player>
+            <player jerseyNumber="17">Adam Lowry</player>
+            <player jerseyNumber="55">Mark Scheifele</player>
+            <player jerseyNumber="28">Nathan Beaulieu</player>
+            <player jerseyNumber="70">Joe Morrow</player>
+            <player jerseyNumber="38">Cameron Schilling</player>
+            <player jerseyNumber="8">Jacob Trouba</player>
+            <player jerseyNumber="18">Andrew Copp</player>
+            <player jerseyNumber="19">Nic Petan</player>
+            <player jerseyNumber="44">Josh Morrissey</player>
+            <player jerseyNumber="27">Nikolaj Ehlers</player>
+            <player jerseyNumber="48">Brendan Lemieux</player>
+            <player jerseyNumber="62">Nelson Nogier</player>
+            <player jerseyNumber="81">Kyle Connor</player>
+            <player jerseyNumber="96">Jack Roslovic</player>
+            <player jerseyNumber="22">Mason Appleton</player>
+            <player jerseyNumber="15">Sami Niku</player>
+            <player jerseyNumber="13">Brandon Tanev</player>
+            <player jerseyNumber="29">Patrik Laine</player>
+            <player jerseyNumber="93">Kristian Vesalainen</player>
+            <player jerseyNumber="26">Par Lindholm</player>
+            <player jerseyNumber="39">Laurent Brossoit</player>
+            <player jerseyNumber="37">Connor Hellebuyck</player>
+            <player jerseyNumber="31">Eric Comrie</player>
+        </players>
+    </team>
+    <team id="20">
+        <teamName>Calgary Flames</teamName>
+        <teamStats>
+            <wins>50</wins>
+            <losses>25</losses>
+            <pts>107</pts>
+        </teamStats>
+        <players>
+            <player jerseyNumber="55">Mark Giordano</player>
+            <player jerseyNumber="81">James Neal</player>
+            <player jerseyNumber="67">Michael Frolik</player>
+            <player jerseyNumber="16">Anthony Peluso</player>
+            <player jerseyNumber="11">Mikael Backlund</player>
+            <player jerseyNumber="23">Travis Hamonic</player>
+            <player jerseyNumber="26">Michael Stone</player>
+            <player jerseyNumber="78">TJ Brodie</player>
+            <player jerseyNumber="5">Dalton Prout</player>
+            <player jerseyNumber="13">Johnny Gaudreau</player>
+            <player jerseyNumber="26">Alan Quine</player>
+            <player jerseyNumber="17">Mark Jankowski</player>
+            <player jerseyNumber="28">Elias Lindholm</player>
+            <player jerseyNumber="91">Sean Monahan</player>
+            <player jerseyNumber="20">Curtis Lazar</player>
+            <player jerseyNumber="39">Kerby Rychel</player>
+            <player jerseyNumber="21">Garnet Hathaway</player>
+            <player jerseyNumber="9">Sam Bennett</player>
+            <player jerseyNumber="88">Andrew Mangiapane</player>
+            <player jerseyNumber="55">Noah Hanifin</player>
+            <player jerseyNumber="4">Rasmus Andersson</player>
+            <player jerseyNumber="58">Oliver Kylington</player>
+            <player jerseyNumber="21">Austin Czarnik</player>
+            <player jerseyNumber="10">Derek Ryan</player>
+            <player jerseyNumber="94">Ryan Lomberg</player>
+            <player jerseyNumber="19">Matthew Tkachuk</player>
+            <player jerseyNumber="29">Dillon Dube</player>
+            <player jerseyNumber="4">Juuso Valimaki</player>
+            <player jerseyNumber="5">Oscar Fantenberg</player>
+            <player jerseyNumber="41">Mike Smith</player>
+            <player jerseyNumber="33">David Rittich</player>
+        </players>
+    </team>
+</teams>

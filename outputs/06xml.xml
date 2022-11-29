@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="schema06.xsd">
+    <tzcount name="America/Los_Angeles">4</tzcount>
+    <tzcount name="America/Chicago">5</tzcount>
+    <tzcount name="America/Denver">2</tzcount>
+    <tzcount name="America/Edmonton">1</tzcount>
+    <tzcount name="America/Winnipeg">1</tzcount>
+    <tzcount name="America/Vancouver">1</tzcount>
+    <tzcount name="America/New_York">13</tzcount>
+    <tzcount name="America/Montreal">1</tzcount>
+    <tzcount name="America/Toronto">1</tzcount>
+    <tzcount name="America/Phoenix">1</tzcount>
+    <tzcount name="America/Detroit">1</tzcount>
+</document>

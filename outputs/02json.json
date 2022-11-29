@@ -1,0 +1,80 @@
+[
+    {
+        "team name": "New Jersey Devils",
+        "venue": "Prudential Center",
+        "location name": "New Jersey",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "New York Islanders",
+        "venue": "UBS Arena",
+        "location name": "New York",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "New York Rangers",
+        "venue": "Madison Square Garden",
+        "location name": "New York",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Philadelphia Flyers",
+        "venue": "Wells Fargo Center",
+        "location name": "Philadelphia",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Pittsburgh Penguins",
+        "venue": "PPG Paints Arena",
+        "location name": "Pittsburgh",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Boston Bruins",
+        "venue": "TD Garden",
+        "location name": "Boston",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Buffalo Sabres",
+        "venue": "KeyBank Center",
+        "location name": "Buffalo",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Ottawa Senators",
+        "venue": "Canadian Tire Centre",
+        "location name": "Ottawa",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Carolina Hurricanes",
+        "venue": "PNC Arena",
+        "location name": "Carolina",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Florida Panthers",
+        "venue": "FLA Live Arena",
+        "location name": "Florida",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Tampa Bay Lightning",
+        "venue": "AMALIE Arena",
+        "location name": "Tampa Bay",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Washington Capitals",
+        "venue": "Capital One Arena",
+        "location name": "Washington",
+        "timezone": "America\/New_York"
+    },
+    {
+        "team name": "Columbus Blue Jackets",
+        "venue": "Nationwide Arena",
+        "location name": "Columbus",
+        "timezone": "America\/New_York"
+    }
+]

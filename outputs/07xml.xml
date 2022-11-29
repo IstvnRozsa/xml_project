@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="schema07.xsd">
+    <team id="9">
+        <teamName>Ottawa Senators</teamName>
+        <teamShortName>Ottawa</teamShortName>
+        <teamVenue>Canadian Tire Centre</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>29</wins>
+            <losses>47</losses>
+            <pts>64</pts>
+        </teamStats>
+    </team>
+    <team id="1">
+        <teamName>New Jersey Devils</teamName>
+        <teamShortName>New Jersey</teamShortName>
+        <teamVenue>Prudential Center</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>31</wins>
+            <losses>41</losses>
+            <pts>72</pts>
+        </teamStats>
+    </team>
+    <team id="3">
+        <teamName>New York Rangers</teamName>
+        <teamShortName>NY Rangers</teamShortName>
+        <teamVenue>Madison Square Garden</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>32</wins>
+            <losses>36</losses>
+            <pts>78</pts>
+        </teamStats>
+    </team>
+    <team id="17">
+        <teamName>Detroit Red Wings</teamName>
+        <teamShortName>Detroit</teamShortName>
+        <teamVenue>Little Caesars Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>32</wins>
+            <losses>40</losses>
+            <pts>74</pts>
+        </teamStats>
+    </team>
+    <team id="7">
+        <teamName>Buffalo Sabres</teamName>
+        <teamShortName>Buffalo</teamShortName>
+        <teamVenue>KeyBank Center</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>33</wins>
+            <losses>39</losses>
+            <pts>76</pts>
+        </teamStats>
+    </team>
+    <team id="13">
+        <teamName>Florida Panthers</teamName>
+        <teamShortName>Florida</teamShortName>
+        <teamVenue>FLA Live Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>36</wins>
+            <losses>32</losses>
+            <pts>86</pts>
+        </teamStats>
+    </team>
+    <team id="4">
+        <teamName>Philadelphia Flyers</teamName>
+        <teamShortName>Philadelphia</teamShortName>
+        <teamVenue>Wells Fargo Center</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>37</wins>
+            <losses>37</losses>
+            <pts>82</pts>
+        </teamStats>
+    </team>
+    <team id="5">
+        <teamName>Pittsburgh Penguins</teamName>
+        <teamShortName>Pittsburgh</teamShortName>
+        <teamVenue>PPG Paints Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>44</wins>
+            <losses>26</losses>
+            <pts>100</pts>
+        </teamStats>
+    </team>
+    <team id="8">
+        <teamName>Montréal Canadiens</teamName>
+        <teamShortName>Montréal</teamShortName>
+        <teamVenue>Bell Centre</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>44</wins>
+            <losses>30</losses>
+            <pts>96</pts>
+        </teamStats>
+    </team>
+    <team id="10">
+        <teamName>Toronto Maple Leafs</teamName>
+        <teamShortName>Toronto</teamShortName>
+        <teamVenue>Scotiabank Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>46</wins>
+            <losses>28</losses>
+            <pts>100</pts>
+        </teamStats>
+    </team>
+    <team id="12">
+        <teamName>Carolina Hurricanes</teamName>
+        <teamShortName>Carolina</teamShortName>
+        <teamVenue>PNC Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>46</wins>
+            <losses>29</losses>
+            <pts>99</pts>
+        </teamStats>
+    </team>
+    <team id="29">
+        <teamName>Columbus Blue Jackets</teamName>
+        <teamShortName>Columbus</teamShortName>
+        <teamVenue>Nationwide Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>47</wins>
+            <losses>31</losses>
+            <pts>98</pts>
+        </teamStats>
+    </team>
+    <team id="2">
+        <teamName>New York Islanders</teamName>
+        <teamShortName>NY Islanders</teamShortName>
+        <teamVenue>UBS Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>48</wins>
+            <losses>27</losses>
+            <pts>103</pts>
+        </teamStats>
+    </team>
+    <team id="15">
+        <teamName>Washington Capitals</teamName>
+        <teamShortName>Washington</teamShortName>
+        <teamVenue>Capital One Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>48</wins>
+            <losses>26</losses>
+            <pts>104</pts>
+        </teamStats>
+    </team>
+    <team id="6">
+        <teamName>Boston Bruins</teamName>
+        <teamShortName>Boston</teamShortName>
+        <teamVenue>TD Garden</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>49</wins>
+            <losses>24</losses>
+            <pts>107</pts>
+        </teamStats>
+    </team>
+    <team id="14">
+        <teamName>Tampa Bay Lightning</teamName>
+        <teamShortName>Tampa Bay</teamShortName>
+        <teamVenue>AMALIE Arena</teamVenue>
+        <teamConference>Eastern</teamConference>
+        <teamStats>
+            <wins>62</wins>
+            <losses>16</losses>
+            <pts>128</pts>
+        </teamStats>
+    </team>
+    <team id="26">
+        <teamName>Los Angeles Kings</teamName>
+        <teamShortName>Los Angeles</teamShortName>
+        <teamVenue>Crypto.com Arena</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>31</wins>
+            <losses>42</losses>
+            <pts>71</pts>
+        </teamStats>
+    </team>
+    <team id="22">
+        <teamName>Edmonton Oilers</teamName>
+        <teamShortName>Edmonton</teamShortName>
+        <teamVenue>Rogers Place</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>35</wins>
+            <losses>38</losses>
+            <pts>79</pts>
+        </teamStats>
+    </team>
+    <team id="23">
+        <teamName>Vancouver Canucks</teamName>
+        <teamShortName>Vancouver</teamShortName>
+        <teamVenue>Rogers Arena</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>35</wins>
+            <losses>36</losses>
+            <pts>81</pts>
+        </teamStats>
+    </team>
+    <team id="24">
+        <teamName>Anaheim Ducks</teamName>
+        <teamShortName>Anaheim</teamShortName>
+        <teamVenue>Honda Center</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>35</wins>
+            <losses>37</losses>
+            <pts>80</pts>
+        </teamStats>
+    </team>
+    <team id="16">
+        <teamName>Chicago Blackhawks</teamName>
+        <teamShortName>Chicago</teamShortName>
+        <teamVenue>United Center</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>36</wins>
+            <losses>34</losses>
+            <pts>84</pts>
+        </teamStats>
+    </team>
+    <team id="30">
+        <teamName>Minnesota Wild</teamName>
+        <teamShortName>Minnesota</teamShortName>
+        <teamVenue>Xcel Energy Center</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>37</wins>
+            <losses>36</losses>
+            <pts>83</pts>
+        </teamStats>
+    </team>
+    <team id="21">
+        <teamName>Colorado Avalanche</teamName>
+        <teamShortName>Colorado</teamShortName>
+        <teamVenue>Ball Arena</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>38</wins>
+            <losses>30</losses>
+            <pts>90</pts>
+        </teamStats>
+    </team>
+    <team id="53">
+        <teamName>Arizona Coyotes</teamName>
+        <teamShortName>Arizona</teamShortName>
+        <teamVenue>Mullett Arena</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>39</wins>
+            <losses>35</losses>
+            <pts>86</pts>
+        </teamStats>
+    </team>
+    <team id="25">
+        <teamName>Dallas Stars</teamName>
+        <teamShortName>Dallas</teamShortName>
+        <teamVenue>American Airlines Center</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>43</wins>
+            <losses>32</losses>
+            <pts>93</pts>
+        </teamStats>
+    </team>
+    <team id="54">
+        <teamName>Vegas Golden Knights</teamName>
+        <teamShortName>Vegas</teamShortName>
+        <teamVenue>T-Mobile Arena</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>43</wins>
+            <losses>32</losses>
+            <pts>93</pts>
+        </teamStats>
+    </team>
+    <team id="19">
+        <teamName>St. Louis Blues</teamName>
+        <teamShortName>St Louis</teamShortName>
+        <teamVenue>Enterprise Center</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>45</wins>
+            <losses>28</losses>
+            <pts>99</pts>
+        </teamStats>
+    </team>
+    <team id="28">
+        <teamName>San Jose Sharks</teamName>
+        <teamShortName>San Jose</teamShortName>
+        <teamVenue>SAP Center at San Jose</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>46</wins>
+            <losses>27</losses>
+            <pts>101</pts>
+        </teamStats>
+    </team>
+    <team id="18">
+        <teamName>Nashville Predators</teamName>
+        <teamShortName>Nashville</teamShortName>
+        <teamVenue>Bridgestone Arena</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>47</wins>
+            <losses>29</losses>
+            <pts>100</pts>
+        </teamStats>
+    </team>
+    <team id="52">
+        <teamName>Winnipeg Jets</teamName>
+        <teamShortName>Winnipeg</teamShortName>
+        <teamVenue>Canada Life Centre</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>47</wins>
+            <losses>30</losses>
+            <pts>99</pts>
+        </teamStats>
+    </team>
+    <team id="20">
+        <teamName>Calgary Flames</teamName>
+        <teamShortName>Calgary</teamShortName>
+        <teamVenue>Scotiabank Saddledome</teamVenue>
+        <teamConference>Western</teamConference>
+        <teamStats>
+            <wins>50</wins>
+            <losses>25</losses>
+            <pts>107</pts>
+        </teamStats>
+    </team>
+</teams>
