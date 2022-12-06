@@ -24,7 +24,7 @@ declare function local:getResult($fileName as xs:string?, $currentYear as xs:int
       }
 };
 
-let $file := "teams.json"
+let $file := "data/teams.json"
 let $year := 2022
 let $result := local:getResult($file, $year)
 return $result

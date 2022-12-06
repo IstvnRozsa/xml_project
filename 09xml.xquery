@@ -1,6 +1,6 @@
 (: Top 3 legtobbet vesztett csapat :)
 xquery version "3.1";
-import schema default element namespace "" at "schema09.xsd";
+import schema default element namespace "" at "data/schema09.xsd";
 
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
@@ -8,11 +8,11 @@ declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "xml";
 declare option output:indent "yes";
 
-let $nhlteams := json-doc("teams.json")?teams?*
+let $nhlteams := json-doc("data/teams.json")?teams?*
 return validate {
     document {
         <teams xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xsi:noNamespaceSchemaLocation="schema09.xsd">
+                xsi:noNamespaceSchemaLocation="data/schema09.xsd">
             {
                 let $sortByLossDesc:= 
                 for $team in $nhlteams

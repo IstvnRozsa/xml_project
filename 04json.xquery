@@ -22,7 +22,7 @@ declare function local:getResult($fileName as xs:string?, $limit as xs:integer?)
       }
 };
 
-let $file := "teams.json"
+let $file := "data/teams.json"
 let $limit := 40
 let $result := local:getResult($file, $limit)
 return $result

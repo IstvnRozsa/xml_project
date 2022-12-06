@@ -8,7 +8,7 @@ declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "json";
 declare option output:media-type "application/json";
 
-let $nhlteams := json-doc("teams.json")?teams
+let $nhlteams := json-doc("data/teams.json")?teams
 
 return count(fn:distinct-values(
     array {
