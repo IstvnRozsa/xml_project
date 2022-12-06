@@ -1,7 +1,7 @@
 (: Idozonankenti csapatok szama :)
 xquery version "3.1";
 
-import schema default element namespace "" at "schema06.xsd";
+import schema default element namespace "" at "data/schema06.xsd";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 
