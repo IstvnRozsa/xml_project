@@ -11,8 +11,7 @@ declare option output:indent "yes";
 let $nhlteams := json-doc("data/teams.json")?teams?*
 return validate {
     document {
-        <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xsi:noNamespaceSchemaLocation="data/schema06.xsd">
+        <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             {
                 for $team in $nhlteams
                     let $timezone := $team?venue?timeZone?id

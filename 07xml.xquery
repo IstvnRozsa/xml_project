@@ -11,8 +11,7 @@ declare option output:indent "yes";
 let $nhlteams := json-doc("data/teams.json")?teams?*
 return validate {
     document {
-        <teams xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xsi:noNamespaceSchemaLocation="data/schema07.xsd">
+        <teams xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             {
                 for $team in $nhlteams
                 order by $team?conference?name, $team?teamStats[1]?*?splits[1]?*?stat[1]?wins
