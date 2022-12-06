@@ -14,6 +14,7 @@ declare function local:getResult($fileName as xs:string?, $limit as xs:integer?)
     for $team in $nhlteams
     let $nop := count($team?roster?roster?*)
     where $nop > $limit
+    order by $nop
     return
     map{
         "name" : $team?name,

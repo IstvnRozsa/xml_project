@@ -15,6 +15,7 @@ array {
     for $team in $nhlteams
     let $timezone := $team?venue?timeZone?id
     where contains($timezone, "America/New_York")
+    order by $team?locationName
     return
         map{
             "timezone": $timezone,
