@@ -54,7 +54,7 @@ return document {
                                 count $i
                                 return
                                             <tr>
-                                                <td scope="row">{$i}</td>
+                                                <th scope="row">{$i}</th>
                                                 <td>{$roster?jerseyNumber}</td>
                                                 <td>{$roster?person?fullName}</td>
                                                 <td>{$roster?position?type}</td>
